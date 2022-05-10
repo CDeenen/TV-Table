@@ -1,17 +1,23 @@
-# Introduction
-This repository contains some designs for accessories of my gaming table
+<style>
+    .th {
+        width: 100px;
+    }
+</style>
 
-
-|Design     |stl    |step   |supports   |image  |suggested orientation  |readme |
-|Cup Holder |       |       | -[x]      |       |                       |       |
-|Dice Tower |       |       | -[x]      |       |                       |       |
-|Dice Tray  |       |       | -[x]      |       |                       |       |
-|Nut        |       |       | -[]       |       |                       |       |
+<h1>Introduction</h1>
+<p>
+    This repository contains some designs for accessories of my gaming table
+</p>
 
 <table>
     <tr>
         <th>Design</th>
         <th>stl</th>
+        <th>step</th>
+        <th>supports needed</th>
+        <th>readme</th>
+        <th>image</th>
+        <th>suggested orientation</th>
     </tr>
     <tr>
         <td>Dice Tower</td>
